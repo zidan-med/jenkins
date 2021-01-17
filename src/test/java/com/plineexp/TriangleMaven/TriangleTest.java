@@ -4,7 +4,7 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-public class TriangleTest {
+public class TriangleTest1 {
 
 	Triangle triangle1 = new Triangle();
 	/*@Test
